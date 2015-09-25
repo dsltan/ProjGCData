@@ -281,4 +281,4 @@ str(meanfinal)
  
 
 ##Output the tidy data to a comma delimited text file
-write.table(tmp, file="./HARmean.txt", row.names=FALSE, col.names=TRUE, sep=",")
+write.table(meanfinal, file="./HARmean.txt", row.names=FALSE, col.names=TRUE, sep=",")
