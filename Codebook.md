@@ -2,7 +2,7 @@
 #CODE BOOK for HARmean.txt  
 
 
-Each record in this data file shows a subject's mean measurement for a unique combination of activity-feature axial direction variables.
+Each record in this tidy data file shows a subject's mean measurement for a unique combination of activity-feature axial direction variables.
 
 No. observations: 5,940   
 No. of variables: 6 variables  
