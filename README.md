@@ -22,7 +22,7 @@ This script does the following:
         ASSUMPTION made: each row corresponds to the subject in the same row number in the subject file, 
         i.e. merge simply by row.
         
-3. Test and Train datasets have the same sequence of variables. Append (or stack) the Test and Train datasets to form one file.
+3. Test and Train datasets have the same number of variables locaated in the same sequence of positions in each file. Append (or stack) the Test and Train datasets to form a single data file.
 4. From step 3., create a file that contains only the mean and standard deviation measurments.
 5. Assign meaningful variable names and factor labels to the data file.  
 6. Create a tidy data file, HARmean.txt, where each record contains the mean measurement of a specific feature-axis direction per activity for each subject.
@@ -31,7 +31,7 @@ This script does the following:
 
 # TIDY DATA FILE
 file name:  HARmean.txt  
-This is the data file created at the end of the run_analysis.R script. In this data set, each record shows a subject's mean measurement for a specific activity-feature_axialdirection combination.
+This is the data file created at the end (Step 6.) of the run_analysis.R script. In this data set, each record shows a subject's mean measurement for a specific activity-feature_axialdirection combination.
 
 No. observations: 5,940   
 No. of variables: 6 variables  
