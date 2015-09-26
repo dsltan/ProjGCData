@@ -1,5 +1,5 @@
-###COURSERA 3: PROJECT
-# Final: 2015.09.24
+###COURSERA Getting and Cleaning Data Project
+# SEPT 2015
 
 ##Project output requirements and posting:
 #goes on github: a run_analysis R script, a ReadMe markdown document, a Codebook markdown document, and
