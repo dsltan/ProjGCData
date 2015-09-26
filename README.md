@@ -1,5 +1,5 @@
 #BACKGROUND
-This project is for the COURSERA Getting and Cleaning Data course.
+This project is for the COURSERA Getting and Cleaning Data course (September 2015).
 
 The source data for this project were collected from experiments which measured select activities of human subjects using the accelerometers from the Samsung Galaxy S smartphone. A full description is available at the site where the data was obtained: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
