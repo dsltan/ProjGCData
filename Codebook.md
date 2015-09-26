@@ -35,9 +35,11 @@ No. of variables: 6 variables
     + integer     
     
     
-## Description of feature levels
+## Description of feature level labels
+Each feature variable in the original source data has been converted into a level of a factor variable (named 'feature') in the tidy data file, HARmean.txt. This section describes the feature levels.
 
 *Notation* 
+   The feature level labels begin with the prefix 't' or 'f'.
    The prefix 't' denote time domain signals.
    The preix 'f' denotes freqency domain.
 
