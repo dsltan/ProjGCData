@@ -1,7 +1,5 @@
 #BACKGROUND
-The source data are data collected from the accelerometers from the Samsung Galaxy S smartphone. 
-(A full description is available at the site where the data was obtained: 
-http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+The source data for this project were collected from experiments which measured select activities of human subjects using the accelerometers from the Samsung Galaxy S smartphone. A full description is available at the site where the data was obtained: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 The experiments involved 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING-UPSTAIRS, WALKING-DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist.  Using the smartphone's embedded accelerometer and gyroscope, measurements for 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz were captured. 
 The experiments have been video-recorded to label the data manually. 
