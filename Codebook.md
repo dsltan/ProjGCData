@@ -2,7 +2,7 @@
 #CODE BOOK for HARmean.txt  
 
 
-Each record in this data file shows a subject's mean measurement for a specific activity-feature_axialdirection combination.
+Each record in this data file shows a subject's mean measurement for a unique combination of activity-feature axial direction variables.
 
 No. observations: 5,940   
 No. of variables: 6 variables  
@@ -29,7 +29,7 @@ No. of variables: 6 variables
 
 5. **direction**: denotes signals in one of the 3-axial directions X, Y and Z.  
     + character  
-    + permissible values: X, Y, Z  
+    + permissible values: X, Y, Z, ' ' (blank as mean over all 3 directions)
 
 6. **mean**: mean value      
     + integer     
