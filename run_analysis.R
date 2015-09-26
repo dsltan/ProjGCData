@@ -91,7 +91,7 @@ dim(raw.train.y)
 
 
 #########################################################
-###3. COMBINE THE TRAIN and TEST DATA INTO 1 FILE 
+###3. STACK THE TRAIN and TEST DATA INTO 1 FILE 
 #########################################################
 #There is no subject ID on the .x ad .y files; ASSUME each row corresponds
 # to the subject in the same row number in the .subject file,
