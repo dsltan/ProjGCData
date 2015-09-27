@@ -34,7 +34,9 @@ This script does the following:
 # TIDY DATA FILE
 file name:  HARmean.txt  
 
-This is the data file created at the end (Step 6.) of the run_analysis.R script. In this data set, each record shows a subject's mean measurement for a unique combination of activity-feature-axial direction.
+This is the data file created at the end (Step 6.) of the run_analysis.R script. 
+
+In this data set, each record shows a subject's mean measurement for a unique combination of activity-feature-axial direction.
 
 No. observations: 5,940   
 No. of variables: 6 variables  
